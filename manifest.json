@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generated": "2026-09-01T03:55:23Z",
+  "generated": "2026-09-01T08:22:26Z",
   "manifest_sig": null,
   "products": {
     "CFS-BRIDGE-CWM30C8": {
-      "latest": "0.1.16",
+      "latest": "0.1.17",
       "releases": [
         {
           "version": "0.1.15",
@@ -23,6 +23,17 @@
           "url": "https://raw.githubusercontent.com/celfras-dev/cfs-suite-bridge-brd02/main/CFS-BRIDGE-CWM30C8_V0.1.16_IMG.bin",
           "size": 30124,
           "sha256": "688ca5f142f3d8a7c2475199fcc8a56cecbde13adae8ca1e92d4736933ebfba8",
+          "notes": "",
+          "sig_alg": null,
+          "key_id": null,
+          "sig": null
+        },
+        {
+          "version": "0.1.17",
+          "cmd_set": "2.6.0",
+          "url": "https://raw.githubusercontent.com/celfras-dev/cfs-suite-bridge-brd02/main/CFS-BRIDGE-CWM30C8_V0.1.17_IMG.bin",
+          "size": 30152,
+          "sha256": "c29325ee990f9d5f44cc2c623d0cab37602c93cc289b1ae11cbfc95e1e3f7f52",
           "notes": "",
           "sig_alg": null,
           "key_id": null,
