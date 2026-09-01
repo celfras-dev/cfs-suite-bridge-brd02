@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "generated": "2026-09-01T01:29:05Z",
+  "manifest_sig": null,
+  "products": {
+    "CFS-BRIDGE-CWM30C8": {
+      "latest": "0.1.15",
+      "releases": [
+        {
+          "version": "0.1.15",
+          "cmd_set": "2.5.0",
+          "url": "https://raw.githubusercontent.com/celfras-dev/cfs-suite-bridge-brd02/main/CFS-BRIDGE-CWM30C8_V0.1.15_IMG.bin",
+          "size": 30124,
+          "sha256": "d3848f77868e2e9df02a34b98bf50d84b9826bbc13faedfac6c3a854d05ee8cf",
+          "notes": "",
+          "sig_alg": null,
+          "key_id": null,
+          "sig": null
+        }
+      ]
+    }
+  }
+}
