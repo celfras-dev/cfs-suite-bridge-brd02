@@ -1,50 +1,17 @@
 {
   "schema": 1,
-  "generated": "2026-09-03T13:16:09Z",
+  "generated": "2026-09-10T10:27:59Z",
   "manifest_sig": null,
   "products": {
-    "CFS-BRIDGE-CWM30C8": {
-      "latest": "0.1.24",
+    "CFS-SUITE-BRIDGE-02": {
+      "latest": "3.0.3",
       "releases": [
         {
-          "version": "0.1.15",
-          "cmd_set": "2.5.0",
-          "url": "https://raw.githubusercontent.com/celfras-dev/cfs-suite-bridge-brd02/main/CFS-BRIDGE-CWM30C8_V0.1.15_IMG.bin",
-          "size": 30124,
-          "sha256": "d3848f77868e2e9df02a34b98bf50d84b9826bbc13faedfac6c3a854d05ee8cf",
-          "notes": "",
-          "sig_alg": null,
-          "key_id": null,
-          "sig": null
-        },
-        {
-          "version": "0.1.16",
-          "cmd_set": "2.5.0",
-          "url": "https://raw.githubusercontent.com/celfras-dev/cfs-suite-bridge-brd02/main/CFS-BRIDGE-CWM30C8_V0.1.16_IMG.bin",
-          "size": 30124,
-          "sha256": "688ca5f142f3d8a7c2475199fcc8a56cecbde13adae8ca1e92d4736933ebfba8",
-          "notes": "",
-          "sig_alg": null,
-          "key_id": null,
-          "sig": null
-        },
-        {
-          "version": "0.1.17",
-          "cmd_set": "2.6.0",
-          "url": "https://raw.githubusercontent.com/celfras-dev/cfs-suite-bridge-brd02/main/CFS-BRIDGE-CWM30C8_V0.1.17_IMG.bin",
-          "size": 30152,
-          "sha256": "c29325ee990f9d5f44cc2c623d0cab37602c93cc289b1ae11cbfc95e1e3f7f52",
-          "notes": "",
-          "sig_alg": null,
-          "key_id": null,
-          "sig": null
-        },
-        {
-          "version": "0.1.24",
-          "cmd_set": "2.7.0",
-          "url": "https://raw.githubusercontent.com/celfras-dev/cfs-suite-bridge-brd02/main/CFS-BRIDGE-CWM30C8_V0.1.24_IMG.bin",
-          "size": 30592,
-          "sha256": "69584ae7913c25e7fd86b5fbf8f3fc979a832d7516cab9a539ed66ba1aa3eafc",
+          "version": "3.0.3",
+          "cmd_set": "2.11.0",
+          "url": "https://raw.githubusercontent.com/celfras-dev/cfs-suite-bridge-brd02/main/CFS-SUITE-BRIDGE-02_V3.0.3_ARMCC_IMG.bin",
+          "size": 32508,
+          "sha256": "705f16d86445f7298849cf67571b168fe5984e12dd391b9566a67595a8979151",
           "notes": "",
           "sig_alg": null,
           "key_id": null,
