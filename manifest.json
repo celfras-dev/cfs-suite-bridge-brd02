@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generated": "2026-09-13T07:55:06Z",
+  "generated": "2026-09-13T18:28:13Z",
   "manifest_sig": null,
   "products": {
     "CFS-SUITE-BRIDGE-02": {
-      "latest": "4.2.0",
+      "latest": "4.3.0",
       "releases": [
         {
           "version": "3.0.3",
@@ -45,6 +45,17 @@
           "url": "https://raw.githubusercontent.com/celfras-dev/cfs-suite-bridge-brd02/main/CFS-SUITE-BRIDGE-02_V4.2.0_ARMCC_IMG.bin",
           "size": 36632,
           "sha256": "1428352a08d2ce9e9895d45473e7fef2becc4cf7dc5e52e2322510aeef3ef1b3",
+          "notes": "",
+          "sig_alg": null,
+          "key_id": null,
+          "sig": null
+        },
+        {
+          "version": "4.3.0",
+          "cmd_set": "3.1.0",
+          "url": "https://raw.githubusercontent.com/celfras-dev/cfs-suite-bridge-brd02/main/CFS-SUITE-BRIDGE-02_V4.3.0_ARMCC_IMG.bin",
+          "size": 36688,
+          "sha256": "6820b855a78425b5b7e9ef82cb0ca303fabf852ddefde01f436cb632b6dc04f7",
           "notes": "",
           "sig_alg": null,
           "key_id": null,
